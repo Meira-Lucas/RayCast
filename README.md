@@ -21,4 +21,7 @@ A cena é é constituida em uma linha de metro onde o vagão passa de um lado pr
 ![Captura de tela 2024-03-29 212231](https://github.com/Meira-Lucas/RayCast/assets/128614213/5026e088-c1b9-4d47-8180-002bad3047e8)
 
 ## Codigo usado 
+Void Updateé aplicado o lançamento do Ray, determinamos que o raio será lançado pelo clique do botão espaço.
+como o raio do raycast foi baseado na camera optamos por deixar fixa em cima do vagão e quando clicamos no botao o vagao ira se mexer até a outra plataforma 
+
 ![Captura de tela 2024-03-29 170130](https://github.com/Meira-Lucas/RayCast/assets/128614213/06c02bf3-2ea3-4e56-b4f3-5b61580f8e8d)
